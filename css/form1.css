@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(77, 241, 77);
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    margin: 10% auto;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+
+.form-body input{
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    /* margin: 15px auto; */
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(231, 224, 224);
+    /* box-sizing: var; */
+}
+
+.form-submit button{
+    background-color: rgb(9, 149, 9);
+    width: 80px;
+    text-align: center;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    color: rgb(241, 239, 239);
+}
+
+.account{
+    text-align: center;
+}
+
+.reg{
+    color: gray;
+}
+
+.crt{
+    color: rgb(77, 241, 77);
+}
+
+input [type="Username"] {
+    margin-bottom: 20px;
+}

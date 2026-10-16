@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.outer-box{
+    margin: auto;
+    border: 1px solid black;
+    padding: 36px;
+    width: 550px;
+    margin: 10% auto;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #f1f1f3;
+    width: 500px;
+    margin: auto;
+    padding: 48px;
+    color: black;
+    border-radius: 2%;
+    margin-bottom: 30px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+}
+
+.form3-body input{
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    font-family: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #292929;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+
+    border: none;
+    box-sizing: border-box;
+}
+
+.form3-body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 700;
+}
+
+.form3-message{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 700;
+
+}
+
+.message-box{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.form3-send button{
+    margin-top: 40px;
+    background-color: rgb(240, 23, 182);
+    width: 80px;
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 3px;
+}
+
+.write-up{
+    margin-top: 20px;
+    font-size: small;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

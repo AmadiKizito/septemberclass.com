@@ -1,0 +1,14 @@
+.text{
+    background-color: blue;
+    margin: 30px;
+    padding: 20px;
+    border: solid 5px;
+    
+}
+
+.text h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    font-style: italic;
+}

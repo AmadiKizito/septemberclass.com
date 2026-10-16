@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom, #ffffff 0%, #f1f2ff 100%);
+    color: #252d43;
+    min-height: 100vh;
+}
+
+.container{
+    width: 100%;
+    max-width: 964px;
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+
+.page-header{
+    margin-bottom:36px;
+}
+
+.page-header h1{
+    font-size: 40px;
+    line-height: 1.12;
+    color: #252d43;
+
+}
+
+.servive{
+    display: grid;
+    min-height: 176px;
+    padding: 30px;
+    display: flex;
+    align-items: flex-start;
+    gap: 28px;
+    box-shadow: 0 5px 25px rgba(48, 57, 110, 0.025);
+    border-radius: 3px;
+    transition: transform 0.3s, box-shadow 0.3s;
+
+}
+
